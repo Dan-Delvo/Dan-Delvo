@@ -17,8 +17,6 @@
 - 🎓 **Education:** Final year BS Information Technology student at **Polytechnic University of the Philippines – Taguig**.
 - 🚀 **Current Focus:** Bridging the gap between Backend (Laravel) and Frontend by mastering **React**.
 - 🛠️ **Experience:** Comfortable building robust web applications using the **TALL stack** and modern PHP practices.
-- ⚡ **Fun Fact:** When I'm not debugging, you'll find me at the **gym**, grinding in **video games**, or discovering new music.
-
 ---
 
 ### 🛠 Tech Stack & Tools
@@ -42,7 +40,7 @@
 ---
 
 ### 🤝 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your-email@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dan-jaspher-delvo/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:dandelvo12345@gmail.com)
 
-<p align="right"><i>"Keep pushing code, keep lifting weights."</i></p>
+<p align="right"><i>"P.P.E."</i></p>
